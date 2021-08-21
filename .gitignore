@@ -1,0 +1,10 @@
+_pycache_/
+*.pyc
+venv/
+venv1/
+models/
+events.*
+*.pyc
+.vscode/
+*.dot
+*.db
